@@ -19,9 +19,9 @@
 단순히 모델을 적용하는 것을 넘어, 임상, 환경, 비즈니스 등 더 복잡하고 다양한 문제를 통계적 관점에서 해결할 수 있는 데이터 분석 전문가로 성장하기 위해 꾸준히 학습하고 있습니다.
 
 ## 3. 기술 스택
-* **Main Language:** R
-* **Statistical Tools:** SAS, SPSS
-* **Sub Language:** Python
+* **Main Language:** R ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+* **Statistical Tools:** SAS ![SAS](https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white), SPSS ![SPSS](https://img.shields.io/badge/SPSS-CC2928?style=for-the-badge&logo=ibm&logoColor=white)
+* **Sub Language:** Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 4. 프로젝트 경험
 
